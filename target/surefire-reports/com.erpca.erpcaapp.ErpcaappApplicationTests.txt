@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.erpca.erpcaapp.ErpcaappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.196 s -- in com.erpca.erpcaapp.ErpcaappApplicationTests
