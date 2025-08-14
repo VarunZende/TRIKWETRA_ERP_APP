@@ -1,6 +1,0 @@
-- My first auto-log test
-- My first auto-log test
-2025-08-11 17:21:57 - My first auto-log test
-- 2025-08-11 17:25:43 [varun] f918c71 — Demo unique-log test
-- 2025-08-14 17:39:50 [varun] 099ef78 — removed demo.txt
-- 2025-08-14 17:42:19 [varun] 4e22312 — Demo file 14 august
